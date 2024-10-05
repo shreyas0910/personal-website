@@ -18,3 +18,45 @@
     color: #157c79;
     margin-bottom: 100px;
 }
+#desc{
+    color: #157c79;
+    text-align: center;
+    font-size: 2em;
+}
+#skills{
+    color: #157c79;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 100px;
+}
+#sup{
+    color: #157c79;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10px; 
+}
+#sup2{
+    color: #157c79;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10px; 
+}
+#sup3{
+    color: #157c79;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10px; 
+}
+#contact{
+    color: #157c79;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 100px;
+}
+#yo{
+    color: #157c79;
+    align-items: center;
+    font-size: 2em;
+    margin-top: 200px; 
+    margin-left:389px;
+}
